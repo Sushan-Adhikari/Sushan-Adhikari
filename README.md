@@ -61,9 +61,22 @@ Internal Relations & Operations Lead for **KU HackFest 2024** (~200 team applica
 
 ---
 
+<!--
+  STATS CARDS:
+   - Stats + top languages render from Sushan's own self-hosted github-readme-stats
+     instance (no rate limits; counts private/org work via the PAT_1 token).
+     To re-point them, replace the host in both URLs below.
+   - Streak renders from the maintained streak-stats.demolab.com instance
+     (official server; counts private contributions once they're public on the profile).
+-->
+
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Sushan-Adhikari&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0284c7" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushan-Adhikari&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0ea5e9" alt="Top languages" />
+  <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api?username=Sushan-Adhikari&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0284c7" alt="Sushan Adhikari's GitHub stats" />
+  <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api/top-langs/?username=Sushan-Adhikari&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0ea5e9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sushan-Adhikari&hide_border=true&background=00000000&ring=0ea5e9&fire=0284c7&currStreakLabel=0ea5e9&sideLabels=475569&dates=64748b" alt="GitHub streak" />
 </p>
 
 <sub>B.Eng. Computer Engineering, Kathmandu University · exchange semester at IIT Palakkad · based in Nepal</sub>
