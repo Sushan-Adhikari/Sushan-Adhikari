@@ -71,8 +71,14 @@ Internal Relations & Operations Lead for **KU HackFest 2024** (~200 team applica
 -->
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api?username=Sushan-Adhikari&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0284c7" alt="Sushan Adhikari's GitHub stats" />
-  <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api/top-langs/?username=Sushan-Adhikari&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0ea5e9" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-liart-37.vercel.app/api?username=Sushan-Adhikari&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0" />
+    <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api?username=Sushan-Adhikari&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0284c7&text_color=1e293b" alt="Sushan Adhikari's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-liart-37.vercel.app/api/top-langs/?username=Sushan-Adhikari&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0" />
+    <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api/top-langs/?username=Sushan-Adhikari&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=1e293b" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
