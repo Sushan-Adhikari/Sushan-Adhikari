@@ -4,7 +4,7 @@ AI/ML Engineer and Computer Engineering graduate (Kathmandu University). I work 
 
 First-author on multiple publications, contributor to a national platform serving **300K+ users**, and co-founder of two AI products.
 
-🌐 [sushanadhikari.com.np](https://www.sushanadhikari.com.np) &nbsp;·&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=k3_mHJUAAAAJ) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sushan-adhikari) &nbsp;·&nbsp; ✉️ sushan.adhikari2060@gmail.com
+🌐 [sushanadhikari.com.np](https://www.sushanadhikari.com.np) &nbsp;·&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=k3_mHJUAAAAJ) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sushan-adhikari) &nbsp;·&nbsp; ✉️ [sushan.adhikari2060@gmail.com](mailto:sushan.adhikari2060@gmail.com)
 
 ---
 
@@ -43,8 +43,8 @@ First-author on multiple publications, contributor to a national platform servin
 
 ### Toolbox
 
-`Python` `PyTorch` `scikit-learn` `Hugging Face` `LangChain` `FastAPI` `Django` `React`
-`NVIDIA Triton` `DeepStream` `GStreamer` `YOLOv8` `OpenCV`
+`Python` `PyTorch` `scikit-learn` `Hugging Face` `LangChain` `FastAPI` `Django` `React`<br>
+`NVIDIA Triton` `DeepStream` `GStreamer` `YOLOv8` `OpenCV`<br>
 `AWS` `Docker` `Terraform` `Airflow` `PySpark` `PostgreSQL`
 
 ### Certifications
@@ -88,4 +88,4 @@ Internal Relations & Operations Lead for **KU HackFest 2024** (~200 team applica
   </picture>
 </p>
 
-<sub>B.Eng. Computer Engineering, Kathmandu University · exchange semester at IIT Palakkad · based in Nepal</sub>
+<p align="center"><sub>B.Eng. Computer Engineering, Kathmandu University · exchange semester at IIT Palakkad · based in Nepal</sub></p>
