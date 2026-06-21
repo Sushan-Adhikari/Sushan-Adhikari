@@ -76,7 +76,10 @@ Internal Relations & Operations Lead for **KU HackFest 2024** (~200 team applica
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sushan-Adhikari&hide_border=true&background=00000000&ring=0ea5e9&fire=0284c7&currStreakLabel=0ea5e9&sideLabels=475569&dates=64748b" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sushan-Adhikari&hide_border=true&background=00000000&ring=0ea5e9&fire=f97316&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&stroke=334155" />
+    <img src="https://streak-stats.demolab.com/?user=Sushan-Adhikari&hide_border=true&background=00000000&ring=0ea5e9&fire=0284c7&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=0ea5e9&sideLabels=475569&dates=64748b&stroke=e2e8f0" alt="GitHub streak" />
+  </picture>
 </p>
 
 <sub>B.Eng. Computer Engineering, Kathmandu University · exchange semester at IIT Palakkad · based in Nepal</sub>
